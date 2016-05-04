@@ -1,6 +1,7 @@
 # handicapping_golf
 
 deliverables.py - the main file to print out results
+
 golfdata.csv - the data file
 nway_comp.py - contains functions to simulate various handicapping schemes (name means N-way comparison - you can compare all the different methods easily after running this file)
 random_comps.py - contains functions to test random orderings, as well as local search optimization for orderings
