@@ -1,5 +1,8 @@
 # handicapping_golf
 
+WARNING! I wrote this code many years ago as an undergrad - I make no promises as to its cleanliness or readability :)
+
+
 deliverables.py - the main file to print out results
 
 golfdata.csv - the data file
